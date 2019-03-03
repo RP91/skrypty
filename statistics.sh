@@ -3,4 +3,5 @@
 # Skrypt uruchamia sie w tle
 
 
+
 sar 5 100 >> statistics.txt 2>/dev/null &

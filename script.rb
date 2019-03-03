@@ -1,3 +1,6 @@
 #!/usr/bin/ruby
 
-puts 'testing scripting with ruby'
+puts 'testing scripting with atom'
+puts 'testing scripting with atom'
+puts 'testing scripting with atom'
+puts 'testing scripting with atom'
